@@ -1,5 +1,5 @@
 # ChatBot-RF
-Projeto de chatbot em desenvolvimento. Um possível tema para ele é tributação federal.
+Projeto de chatbot em desenvolvimento.
 
 Seja bem-vindo(a) ao repositório!
 
