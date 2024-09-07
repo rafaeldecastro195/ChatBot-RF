@@ -3,6 +3,7 @@ Projeto de chatbot em desenvolvimento.
 
 Seja bem-vindo(a) ao repositório!
 
+## Sobre o Projeto
 Esse é o primeiro passo do projeto. Nele, o chatbot já está funcional, usando o modelo Gemini 1.5 Flash, porém ainda não passou por treinamentos e embed.
 Penso em buscar dados sobre a Receita Federal e impostos federais para fazer o embed e enriquecer as respostas dele sobre o tema. Pretendo começar a busca por
 eles no site gov.br (https://www.gov.br/receitafederal/pt-br), onde haverá muitas informações. Pretendo, também, trabalhar melhor a estrutura do chatbot, melhorar
