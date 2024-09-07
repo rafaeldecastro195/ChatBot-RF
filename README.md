@@ -25,6 +25,11 @@ Para os próximos passos, pretendo trabalhar melhor a estrutura do chatbot, melh
 Para um futuro próximo, pretendo criar uma interface para o chatbot, onde o usuário possa fazer configurações e inserir a API KEY do Google diretamente na aplicação, sem fazer diretamente pelo algoritmo. Para isso, usarei como referência:
 - O curso Interfaces Gráficas com Python - PyQt6 & Qt Designer de Jihad Abdul Rahmanm, disponibilizado na plataforma da Udemy (https://www.udemy.com/course/interfaces-graficas-com-python-pyqt6-qt-designer/?kw=Interfaces+Gr%C3%A1ficas+com+Python+-+PyQt6+%26+Qt+Designer&src=sac&couponCode=OF83024E#instructor-1).
 
+## Tecnologias usadas / a serem usadas:
+- Python: Pandas, Numpy, PyQt6, QtDesigner, Google Generative AI;
+- Gemini
+- Google Colaboratory
+
 ## Notas:
 - Para o chatbot funcionar, necessita-se da API_KEY da Google Cloud, obtida no Google AI Studio (https://aistudio.google.com/app/apikey). Basta colar em 
 "COLE_AQUI_A_SUA_API_KEY", na primeira célula do algoritmo.
