@@ -32,7 +32,7 @@ Para um futuro próximo, pretendo criar uma interface para o chatbot, onde o usu
 
 ### Notas:
 - Para o chatbot funcionar, necessita-se da API_KEY da Google Cloud, obtida no Google AI Studio (https://aistudio.google.com/app/apikey). Basta colar em 
-"COLE_AQUI_A_SUA_API_KEY", na primeira célula do algoritmo.
+api_key_usuario = 'COLE_AQUI_A_SUA_API_KEY', na segunda célula do algoritmo.
 - ChatBot-RF é um nome provisório do projeto, tanto do programa quanto do repositório.
 
 ## Agradeço muito pela sua visita ao repositório!
