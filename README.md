@@ -27,7 +27,7 @@ Para um futuro próximo, pretendo criar uma interface para o chatbot, onde o usu
 
 ### Tecnologias usadas / a serem usadas:
 - Python: Pandas, Numpy, PyQt6, QtDesigner, Google Generative AI;
-- Gemini
+- Gemini / Google AI Studio
 - Google Colaboratory
 
 ### Notas:
