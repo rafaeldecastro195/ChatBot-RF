@@ -22,7 +22,7 @@ Para os próximos passos, pretendo trabalhar melhor a estrutura do chatbot, melh
 - Cursos de Jones Granatyr diponibilizados na plataforma da Udemy: Pandas Descomplicado: Um Guia Prático para Iniciantes (https://www.udemy.com/course/pandas-descomplicado-um-guia-pratico-para-iniciantes/?couponCode=OF83024E) e NumPy Essencial para Desenvolvedores Python (https://www.udemy.com/course/numpy-essencial-para-desenvolvedores-python/?couponCode=OF83024E).
 
 ### Para o futuro:
-Para um futuro próximo, pretendo criar uma interface para o chatbot, onde o usuário possa fazer configurações e inserir a API KEY do Google diretamente na aplicação, sem fazer diretamente pelo algoritmo. Para isso, será usado como referência:
+Para um futuro próximo, pretendo criar uma interface para o chatbot, onde o usuário possa fazer configurações e inserir a API KEY do Google diretamente na aplicação, sem passar diretamente pelo algoritmo. Para isso, será usado como referência:
 - O curso Interfaces Gráficas com Python - PyQt6 & Qt Designer de Jihad Abdul Rahmanm, disponibilizado na plataforma da Udemy (https://www.udemy.com/course/interfaces-graficas-com-python-pyqt6-qt-designer/?kw=Interfaces+Gr%C3%A1ficas+com+Python+-+PyQt6+%26+Qt+Designer&src=sac&couponCode=OF83024E#instructor-1).
 
 ### Tecnologias usadas / a serem usadas:
