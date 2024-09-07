@@ -19,7 +19,9 @@ Para os próximos passos, pretendo trabalhar melhor a estrutura do chatbot, melh
 - Dados disponibilizados no site gov.br (https://www.gov.br/receitafederal/pt-br);
 - A Aula Cinco do curso "Imersão Inteligência Artificial - Segunda Edição";
 - O site Google AI for Developers (https://ai.google.dev/gemini-api/tutorials/document_search?hl=pt-br#api_changes_to_embeddings_with_model_embedding-001);
-- Cursos de Jones Granatyr diponibilizados na plataforma da Udemy: Pandas Descomplicado: Um Guia Prático para Iniciantes (https://www.udemy.com/course/pandas-descomplicado-um-guia-pratico-para-iniciantes/?couponCode=OF83024E) e NumPy Essencial para Desenvolvedores Python (https://www.udemy.com/course/numpy-essencial-para-desenvolvedores-python/?couponCode=OF83024E).
+- Cursos de Jones Granatyr diponibilizados na plataforma da Udemy:
+  Pandas Descomplicado: Um Guia Prático para Iniciantes (https://www.udemy.com/course/pandas-descomplicado-um-guia-pratico-para-iniciantes/?couponCode=OF83024E)
+  NumPy Essencial para Desenvolvedores Python (https://www.udemy.com/course/numpy-essencial-para-desenvolvedores-python/?couponCode=OF83024E).
 
 ### Para o futuro:
 Para um futuro próximo, pretendo criar uma interface para o chatbot, onde o usuário possa fazer configurações e inserir a API KEY do Google diretamente na aplicação, sem passar diretamente pelo algoritmo. Para isso, será usado como referência:
