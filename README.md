@@ -15,7 +15,7 @@ O chatbot já está funcional. Foram feitas configurações de resposta, na tent
 - A própria Gemini no Google AI Studio (https://aistudio.google.com/app/prompts/new_chat).
 
 ### Próximos passos:
-Para os próximos passos, pretendo trabalhar melhor a estrutura do chatbot, melhorar as respostas e exceções, e criar mais delas, e configurações, deixando-o mais complexo. Além disso, deve ser feito a coleta e integração de novos dados realcionados ao tema por meio de embed. Para essa etapa, usarei como referências:
+Para os próximos passos, pretendo trabalhar melhor a estrutura do chatbot, melhorar as respostas e exceções, e criar mais delas, e configurações, deixando-o mais complexo. Além disso, deverá ser feito a coleta e integração de novos dados realcionados ao tema por meio de embed. Para essa etapa, usarei como referências:
 - Dados disponibilizados no site gov.br (https://www.gov.br/receitafederal/pt-br);
 - A Aula Cinco do curso "Imersão Inteligência Artificial - Segunda Edição";
 - O site Google AI for Developers (https://ai.google.dev/gemini-api/tutorials/document_search?hl=pt-br#api_changes_to_embeddings_with_model_embedding-001);
@@ -24,7 +24,7 @@ Para os próximos passos, pretendo trabalhar melhor a estrutura do chatbot, melh
   NumPy Essencial para Desenvolvedores Python (https://www.udemy.com/course/numpy-essencial-para-desenvolvedores-python/?couponCode=OF83024E).
 
 ### Para o futuro:
-Para um futuro próximo, pretendo criar uma interface para o chatbot, onde o usuário possa fazer configurações e inserir a API KEY do Google diretamente na aplicação, sem passar diretamente pelo algoritmo. Para isso, será usado como referência:
+Para um futuro próximo, pretendo criar uma interface para o chatbot, onde o usuário possa fazer configurações e inserir a API KEY do Google diretamente na aplicação, sem passar diretamente pelo algoritmo. Além disso, deverá ter uma visão mais interessante das conversas. Para isso, será usado como referência:
 - O curso Interfaces Gráficas com Python - PyQt6 & Qt Designer de Jihad Abdul Rahmanm, disponibilizado na plataforma da Udemy (https://www.udemy.com/course/interfaces-graficas-com-python-pyqt6-qt-designer/?kw=Interfaces+Gr%C3%A1ficas+com+Python+-+PyQt6+%26+Qt+Designer&src=sac&couponCode=OF83024E#instructor-1).
 
 ### Tecnologias usadas / a serem usadas:
