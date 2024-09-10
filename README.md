@@ -8,8 +8,8 @@ Trata-se de um chatbot que dê informações sobre a Receita Federal e Impostos 
 
 ### O que está concluído:
 O chatbot já está funcional. Foram feitas configurações de resposta, na tentativa de deixá-lo mais equilibrado, no tamanho do texto e criatividade/qualidade das informações das respostas. Também foram feitas configurações de segurança (relacionadas a conteúdos inapropriados), tentei ser equilibrado no fator segurança das resposta/liberdade, com essas configurações. Além disso, trabalhei exceções ligadas às configurações de segurança. Para o algoritmo já feito, usei como referências: 
-- Aula Quatro do curso "Imersão Inteligência Artificial - Segunda Edição", da Alura e do Google, disponibilizado na plataforma da Alura (https://www.alura.com.br/);
-- Aula ministrada por Fabrício Carraro, "Tutorial: Como CRIAR um CHATBOT com a API do Google GEMINI? | IAs Generativas", no canal da Alura no YouTube (https://www.youtube.com/watch?v=rGchz3aKFt8);
+- Conteúdo da Aula Quatro do curso "Imersão Inteligência Artificial - Segunda Edição", da Alura e do Google, disponibilizado na plataforma da Alura (https://www.alura.com.br/);
+- Conteúdo da Aula ministrada por Fabrício Carraro, "Tutorial: Como CRIAR um CHATBOT com a API do Google GEMINI? | IAs Generativas", no canal da Alura no YouTube (https://www.youtube.com/watch?v=rGchz3aKFt8);
 - Curso Programação Python do Zero ao Avançado + Projetos Reais, de Andre Iacono, disponibilizado na plataforma da Udemy (https://www.udemy.com/course/programacao-python-do-basico-ao-avancado/?couponCode=OF83024E);
 - Site da Google Cloud (https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/configure-safety-attributes?hl=pt-br);
 - A própria Gemini no Google AI Studio (https://aistudio.google.com/app/prompts/new_chat).
@@ -17,7 +17,7 @@ O chatbot já está funcional. Foram feitas configurações de resposta, na tent
 ### Próximos passos:
 Para os próximos passos, pretendo trabalhar melhor a estrutura do chatbot, melhorar as respostas e exceções, e criar mais delas, e configurações, deixando-o mais complexo. Além disso, deverá ser feito a coleta e integração de novos dados relacionados ao tema, por meio de embed. Para essa etapa, usarei como referências:
 - Dados disponibilizados no site gov.br (https://www.gov.br/receitafederal/pt-br);
-- Aula Cinco do curso "Imersão Inteligência Artificial - Segunda Edição";
+- Conteúdo da Aula Cinco do curso "Imersão Inteligência Artificial - Segunda Edição";
 - Site Google AI for Developers (https://ai.google.dev/gemini-api/tutorials/document_search?hl=pt-br#api_changes_to_embeddings_with_model_embedding-001);
 - Curso Pandas Descomplicado: Um Guia Prático para Iniciantes, de Jones Granatyr, diponibilizado na plataforma da Udemy (https://www.udemy.com/course/pandas-descomplicado-um-guia-pratico-para-iniciantes/?couponCode=OF83024E); 
 - Curso NumPy Essencial para Desenvolvedores Python de Jones Granatyr, diponibilizado na plataforma da Udemy (https://www.udemy.com/course/numpy-essencial-para-desenvolvedores-python/?couponCode=OF83024E).
