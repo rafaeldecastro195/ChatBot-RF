@@ -15,7 +15,7 @@ O chatbot já está funcional. Foram feitas configurações de resposta, na tent
 - A própria Gemini no Google AI Studio (https://aistudio.google.com/app/prompts/new_chat).
 
 ### Próximos passos:
-Para os próximos passos, pretendo trabalhar melhor a estrutura do chatbot, melhorar as respostas e exceções, e criar mais delas, e configurações, deixando-o mais complexo. Além disso, deverá ser feito a coleta e integração de novos dados realcionados ao tema por meio de embed. Para essa etapa, usarei como referências:
+Para os próximos passos, pretendo trabalhar melhor a estrutura do chatbot, melhorar as respostas e exceções, e criar mais delas, e configurações, deixando-o mais complexo. Além disso, deverá ser feito a coleta e integração de novos dados relacionados ao tema, por meio de embed. Para essa etapa, usarei como referências:
 - Dados disponibilizados no site gov.br (https://www.gov.br/receitafederal/pt-br);
 - Aula Cinco do curso "Imersão Inteligência Artificial - Segunda Edição";
 - Site Google AI for Developers (https://ai.google.dev/gemini-api/tutorials/document_search?hl=pt-br#api_changes_to_embeddings_with_model_embedding-001);
