@@ -20,7 +20,7 @@ Para os próximos passos, pretendo trabalhar melhor a estrutura do chatbot, melh
 - Conteúdo da Aula Cinco do curso "Imersão Inteligência Artificial - Segunda Edição";
 - Site Google AI for Developers (https://ai.google.dev/gemini-api/tutorials/document_search?hl=pt-br#api_changes_to_embeddings_with_model_embedding-001);
 - Curso Pandas Descomplicado: Um Guia Prático para Iniciantes, de Jones Granatyr, diponibilizado na plataforma da Udemy (https://www.udemy.com/course/pandas-descomplicado-um-guia-pratico-para-iniciantes/?couponCode=OF83024E); 
-- Curso NumPy Essencial para Desenvolvedores Python de Jones Granatyr, diponibilizado na plataforma da Udemy (https://www.udemy.com/course/numpy-essencial-para-desenvolvedores-python/?couponCode=OF83024E).
+- Curso NumPy Essencial para Desenvolvedores Python, de Jones Granatyr, diponibilizado na plataforma da Udemy (https://www.udemy.com/course/numpy-essencial-para-desenvolvedores-python/?couponCode=OF83024E).
 
 ### Para o futuro:
 Para um futuro próximo, pretendo criar uma interface para o chatbot, onde o usuário possa fazer configurações e inserir a API KEY do Google diretamente na aplicação, sem passar diretamente pelo algoritmo. Além disso, deverá ter uma visão mais interessante das conversas. Para isso, será usado como referência:
